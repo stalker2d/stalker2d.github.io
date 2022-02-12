@@ -7,7 +7,7 @@ html {
 }
 
 body {
-	background-color: #5B59555E;
+	background-color: #eee;
 	color: #000;
 	padding: 0;
 	font-family: "Fira Sans", sans-serif;
@@ -163,14 +163,11 @@ header > .container {
 
 #sec-description,
 #sec-screenshots {
-	background: #222229;
-	background: linear-gradient(0deg, rgba(0,0,0,0.2) 0px, rgba(0,0,0,0) 50px),
-		linear-gradient(180deg, rgba(0,0,0,0.2) 0px, rgba(0,0,0,0) 50px),
-		linear-gradient(0deg, #222229 0%, #222229 100%);
+	background: #ddd;
 }
 
 #sec-release {
-	background: #868686;
+	background: #eee;
 	font-size: 1.2em;
 	font-style: italic;
 }
