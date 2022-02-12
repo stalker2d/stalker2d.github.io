@@ -170,11 +170,9 @@ header > .container {
 }
 
 #sec-release {
-	background: #61c13e;
+	background: #868686;
 	font-size: 1.2em;
 	font-style: italic;
-	border-top: 4px solid #4c9930;
-	border-bottom: 4px solid #4c9930;
 }
 #sec-release h2 { color: #222; margin: 0;}
 #sec-release a { color: #005cb2; text-decoration: none;}
