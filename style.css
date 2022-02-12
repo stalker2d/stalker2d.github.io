@@ -30,7 +30,7 @@ body > section:last-of-type {
 }
 
 /* Link styles */
-a { color: #0072b1; }
+a { color: #5c6062; }
 a:hover { color: #7DC1fF; }
 #sec-description a, #sec-screenshots a { color: #2892cc; text-decoration: none; }
 #sec-description a:hover, #sec-screenshots a:hover { color: #7DC1fF; }
