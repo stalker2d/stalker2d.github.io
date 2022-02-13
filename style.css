@@ -71,7 +71,7 @@ header h1 > a {
 	margin: 0;
 	margin: 0;
 }
-header h1 > a:hover { color: #268bd2; }
+header h1 > a:hover { color: #000; }
 header h1 > a:active { color: #175784; }
 
 #slogan {
@@ -110,7 +110,7 @@ pre.bash:before { content: '$ '; }
 } }
 .container > h2 {
 	font-size: 2.0em;
-	color: #268bd2;
+	color: #000;
 	margin-top: 0;
 	text-align: center;
 }
