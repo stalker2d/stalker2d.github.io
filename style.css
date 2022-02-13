@@ -110,14 +110,14 @@ pre.bash:before { content: '$ '; }
 } }
 .container > h2 {
 	font-size: 2.0em;
-	color: #000;
+	color: #404040;
 	margin-top: 0;
 	text-align: center;
 }
 .container > h3 {
 	font-size: 1.2em;
 	margin-bottom: 0.5em;
-	color: #1c689e;
+	color: #3e4951;
 }
 
 /* Footer */
